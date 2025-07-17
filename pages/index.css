@@ -1,0 +1,155 @@
+.page {
+  min-width: 1100px;
+  max-width: 1600px;
+  margin: 0 auto;
+  font-family: "Inter", "Arial", sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  height: 800px;
+  padding: 30px 80px 40px;
+  position: relative;
+  z-index: 0;
+  background: #fff url("../images/background_header.svg") no-repeat center/cover;
+  box-sizing: border-box;
+}
+
+.header__title {
+  max-width: 729px;
+  font-size: 60px;
+  line-height: 72px;
+  font-weight: 500;
+  margin: 183px 0 0;
+  letter-spacing: -0.6px;
+}
+
+.header__span-accent {
+  color: #3f96f3;
+  font-style: italic;
+  display: block;
+  font-family: "Noto Serif", "Times New Roman", serif;
+  font-weight: normal;
+}
+
+.header__description {
+  font-family: "Noto Serif", "Times New Roman", serif;
+  max-width: 683px;
+  font-size: 20px;
+  line-height: 30px;
+  margin: 28px 0 0;
+}
+
+.header__image {
+  position: absolute;
+  top: 124px;
+  right: 5px;
+  width: 646px;
+  height: 568px;
+  z-index: -1;
+}
+
+.header__footer {
+  margin-top: auto;
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  box-sizing: border-box;
+  color: #6f6f6f;
+  font-weight: 500;
+}
+
+.header__paragraph {
+  margin: 0;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  font-weight: 500;
+}
+
+.nav__logo {
+  width: 105px;
+  height: 39px;
+  position: relative;
+  left: -50px;
+}
+
+.nav__links {
+  display: flex;
+  align-items: center;
+  column-gap: 20px;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav__link {
+  color: #000;
+  text-decoration: none;
+}
+
+/* Write your styles here */
+
+.footer {
+  padding: 60px 80px;
+  background: linear-gradient(180deg, #0a2850 0%, #071931 100%);
+  color: #fff;
+  box-sizing: border-box;
+}
+
+.footer__content {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.footer__list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footer__list-item {
+  margin-bottom: 16px;
+}
+
+.footer__list-item:last-of-type {
+  margin-bottom: 0;
+}
+
+.footer__logo {
+  width: 105px;
+  height: 39px;
+}
+
+.footer__social-heading {
+  margin: 0 0 20px;
+  font-family: "Inter", "Arial", sans-serif;
+  font-weight: 700;
+}
+
+.footer__social-icon {
+  margin-right: 10px;
+  width: 16px;
+  height: 16px;
+}
+
+.footer__social-link {
+  display: flex;
+  align-items: center;
+  color: #ffffff;
+  font-size: 16px;
+  line-height: 20px;
+  text-decoration: none;
+}
+
+.footer__copyright {
+  margin: 108px 0 0;
+}
