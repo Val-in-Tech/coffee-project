@@ -17,5 +17,5 @@ Project features~
 - CSS animation and transform
 
 I would try to improve more with the text styling and color decorations.
-Maybe could use more aniamtions with the pages.
+Maybe could use more animations with the pages.
 Add way more vibrant colors to stand out!
