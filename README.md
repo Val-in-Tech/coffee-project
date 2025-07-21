@@ -4,7 +4,9 @@ This is the second project of the fulltime Software Engineering program at Tripl
 It was created using HTML and CSS, based on the design brief.
 
 What else was used~
+
 W3C Markup/CSS to check my work
+
 MDN Web Docs for more information
 
 Project features~
