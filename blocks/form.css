@@ -21,8 +21,8 @@
   display: block;
   margin-top: 8px;
   width: 100%;
-  border-radius: 1px;
-  border: solid #838383;
+  border-radius: 4px;
+  border-width: solid #838383;
   padding: 15px 20px;
   box-sizing: border-box;
   font-family: "Inter", Arial, sans-serif;
@@ -41,6 +41,7 @@
   font-weight: 500;
   font-size: 16px;
   line-height: 20px;
+  border-style: hidden;
 }
 
 .form__button:hover {
