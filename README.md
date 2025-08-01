@@ -22,4 +22,4 @@ I would try to improve more with the text styling and color decorations.
 Maybe could use more animations with the pages.
 Add way more vibrant colors to stand out!
 
-Link to my project on my Webpage --> 
+Link to my project on my Webpage --> https://val-in-tech.github.io/coffee-project/
